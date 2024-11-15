@@ -1,3 +1,0 @@
-method,elapsed_time,best_score,test_score,best_params,auc_score,r2_score
-Unoptimized,0.2733147144317627,,,"['model__C': 1.0, 'model__l1_ratio':0.5]",0.9006523765144454,0.6114877127581302
-BayesSearchCV,84.97982811927795,0.9709129353067059,0.9649090106440379,"OrderedDict({'model__C': 10, 'model__l1_ratio': 0.8, 'model__penalty': 'elasticnet'})",0.924088880168735,0.6928042379948006
