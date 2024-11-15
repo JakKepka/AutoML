@@ -1,3 +1,3 @@
 method,elapsed_time,best_score,test_score,best_params,auc_score,tunability,r2_score
-Unoptimized,0.278564453125,,,"['model__C': 1.0, 'model__l1_ratio':0.5]",0.9068665797479357,0.07975564591643325,0.6308706359553816
-RandomSearchCV,116.42026948928833,0.9874609775726914,0.9849220145830315,"{'n_estimators': 100, 'min_samples_split': 10, 'min_samples_leaf': 1, 'max_depth': None, 'bootstrap': False}",0.9543459365493264,0.032276289115042545,0.8310010140518614
+Unoptimized,0.6640572547912598,,,,0.9504997827031725,0.03619214094133105,0.8176589888454295
+RandomSearchCV,456.2260015010834,0.9881760034742959,0.9872615770920855,"{'model__bootstrap': False, 'model__criterion': 'entropy', 'model__max_depth': 29, 'model__max_features': 'log2', 'model__min_samples_leaf': 1, 'model__min_samples_split': 3, 'model__n_estimators': 1096}",0.9543459365493264,0.03234598709517711,0.8310010140518614

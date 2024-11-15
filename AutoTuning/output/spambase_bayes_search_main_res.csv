@@ -1,3 +1,3 @@
 method,elapsed_time,best_score,test_score,best_params,auc_score,r2_score
-Unoptimized,0.30951452255249023,,,"['model__C': 1.0, 'model__l1_ratio':0.5]",0.9068665797479357,0.6308706359553816
-BayesSearchCV,769.3373684883118,0.9589704696126848,0.9624317929402675,"OrderedDict({'model__C': 0.985, 'model__l1_ratio': 0.8, 'model__penalty': 'elasticnet'})",0.9088294944227147,0.635317977690859
+Unoptimized,0.684006929397583,,,,0.9504997827031725,0.8176589888454295
+BayesSearchCV,304.7721586227417,0.9877708728820404,0.9862523540489642,"OrderedDict({'model__bootstrap': False, 'model__criterion': 'entropy', 'model__max_depth': 30, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 20, 'model__n_estimators': 1740})",0.953404316963639,0.8265536723163842
